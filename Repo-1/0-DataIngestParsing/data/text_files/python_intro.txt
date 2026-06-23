@@ -1,3 +1,11 @@
-Python is a high-level, interpreted programming language known for its simple, readable syntax that closely resembles the English language. 
-Created by Guido van Rossum and released in 1991, it emphasizes clean code structure and allows developers to express concepts in fewer lines of code than languages like C++ or Java.
-Key Features of PythonInterpreted: Python processes code line-by-line, meaning you can run it immediately without a separate compilation step.Dynamically Typed: You do not need to declare variable types; Python determines them automatically at runtime.Cross-Platform: Python runs seamlessly across different operating systems like Windows, macOS, and Linux.Multi-Paradigm: It fully supports procedural, object-oriented (OOP), and functional programming structures.Massive Ecosystem:
+Python is a high-level, interpreted programming language known for its simple, readable syntax that closely resembles 
+
+the English language. 
+Created by Guido van Rossum and released in 1991, it emphasizes clean code structure and allows developers 
+
+to express concepts in fewer lines of code than languages like C++ or Java.
+Key Features of PythonInterpreted: Python processes code line-by-line, meaning you can run it immediately without a separate compilation step.
+
+Dynamically Typed: You do not need to declare variable types; Python determines them automatically at runtime.Cross-Platform: Python runs seamlessly across different operating systems like Windows, macOS, and Linux.Multi-Paradigm: 
+
+It fully supports procedural, object-oriented (OOP), and functional programming structures.Massive Ecosystem:.
