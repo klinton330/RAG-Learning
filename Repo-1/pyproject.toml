@@ -24,4 +24,5 @@ dependencies = [
     "sentence-transformers>=5.5.1",
     "tiktoken>=0.13.0",
     "unstructured[docx]>=0.27.16",
+    "xlrd>=2.0.2",
 ]
