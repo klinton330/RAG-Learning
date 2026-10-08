@@ -16,3 +16,5 @@ docx2txt
 unstructured[docx]
 pandas
 openpyxl
+xlrd
+msoffcrypto
