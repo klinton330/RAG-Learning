@@ -1,0 +1,54 @@
+{
+    "company": "Example Corp",
+    "employees": [
+        {
+            "name": "Alice",
+            "age": 30,
+            "department": "HR",
+            "skills": [
+                "Recruitment",
+                "Employee Relations"
+            ],
+            "projects": [
+                {
+                    "name": "Onboarding Program",
+                    "status": "Completed"
+                },
+                {
+                    "name": "Employee Engagement Survey",
+                    "status": "In Progress"
+                }
+            ]
+        },
+        {
+            "name": "Bob",
+            "age": 25,
+            "department": "Engineering",
+            "skills": [
+                "Software Development",
+                "Testing"
+            ],
+            "projects": [
+                {
+                    "name": "API Development",
+                    "status": "In Progress"
+                }
+            ]
+        },
+        {
+            "name": "Charlie",
+            "age": 35,
+            "department": "Marketing",
+            "skills": [
+                "Content Creation",
+                "Social Media Management"
+            ],
+            "projects": [
+                {
+                    "name": "Brand Campaign",
+                    "status": "Completed"
+                }
+            ]
+        }
+    ]
+}
