@@ -1,0 +1,3 @@
+{"time": "2023-01-01T12:00:00Z", "event": "UserLogin", "user_id": "user123"}
+{"time": "2023-01-01T12:05:00Z", "event": "PageView", "user_id": "user123", "page": "/home"}
+{"time": "2023-01-01T12:10:00Z", "event": "ButtonClick", "user_id": "user123", "button_id": "signup_button"}

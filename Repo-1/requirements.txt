@@ -17,4 +17,5 @@ unstructured[docx]
 pandas
 openpyxl
 xlrd
-msoffcrypto
+jq
+sqllite3
