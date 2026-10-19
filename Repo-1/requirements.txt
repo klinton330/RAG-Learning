@@ -18,10 +18,7 @@ pandas
 openpyxl
 xlrd
 jq
-sqlite3
-=======
 matplotlib
 ## Embeddings
-langchain-hugginface
+langchain-huggingface
 sentence-transformers
->>>>>>> cdcdf292fe72beec58d0a3590a7b9463f30f3a52
