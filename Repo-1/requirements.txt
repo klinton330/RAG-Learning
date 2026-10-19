@@ -18,4 +18,4 @@ pandas
 openpyxl
 xlrd
 jq
-sqllite3
+sqlite3
