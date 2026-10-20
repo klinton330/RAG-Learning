@@ -20,5 +20,5 @@ xlrd
 jq
 matplotlib
 ## Embeddings
-langchain-hugginface
+langchain-huggingface
 sentence-transformers
